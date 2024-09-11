@@ -16,7 +16,7 @@
 
 let blogName = "TrixAdventures";
 let authorName = "Trix";
-let authorLink = "http://trixjoyce.co"; // Enter your website, social media, etc. Some way for people to tell you they like your blog! (Leaving it empty is okay too)
+let authorLink = "http://tricia-johansson.github.io"; // Enter your website, social media, etc. Some way for people to tell you they like your blog! (Leaving it empty is okay too)
 
 //-----------------------------
 
