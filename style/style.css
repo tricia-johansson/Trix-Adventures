@@ -3,11 +3,11 @@
    "how to change link color." */
 
 body {
-  background-color: #436a7b;
-  background-image: url('../images/bg_diamond.png');
+  background-color: #243c41;
+  background-image: url('../images/bg_dustyTome.jpg');
 	background-position: top;
   font-size: 18px;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Palatino Linotype", Palatino, Baskerville, "Baskerville Old Face", Garamond, serif;
   margin: 0;
 }
 
@@ -16,7 +16,7 @@ p {
 }
 
 hr {
-  border: solid #c7b591;
+  border: solid #ccad78;
   border-width: 2px 0 0 0;
 }
 
@@ -42,8 +42,8 @@ img {
 }
 @media only screen and (min-width: 600px) {
   .small {
-    max-width: 60%;
-    height: auto;
+  max-width: 60%;
+  height: auto;
   }
 }
 .caption {
@@ -52,25 +52,16 @@ img {
   font-style: italic;
 }
 
-a:hover { 
-  background-color: #fff6e6;
-}
-
-h1, h2, h3, h4, h5 {
-  font-family: Tahoma, Geneva, sans-serif;
-  color: #34436f;
-}
-
-/*#CONTAINER is the rectangle that contains everything but the background!*/
+/*#CONTAINER is the rectangle that has contains everything but the background!*/
 #container {
   margin: 3em auto;
   width: 90%;
 	max-width: 700px;
-	background-color: #f1e3c9;
-  color: #151515; 
-  outline-color: #a9a9a9;
+	background-color: #f0d19a;
+  color: #524234; 
+  outline-color: #695b4f;
   outline-style: ridge;
-  outline-width: 4px;
+  outline-width: 6px;
   outline-offset: 0;
 }
 
@@ -81,11 +72,11 @@ h1, h2, h3, h4, h5 {
 
 /*HEADER STYLE*/
 #header {
-  background-color: #384879;
+  background-color: #0d2527;
   padding: 0 5%;
-  border-color: #a9a9a9;
+  border-color: #695b4f;
   border-style: ridge;
-  border-width: 0 0 4px 0;
+  border-width: 0 0 6px 0;
 }
 #header ul {
   list-style-type: none;
@@ -100,12 +91,11 @@ h1, h2, h3, h4, h5 {
   margin-top: 0.2em;
 }
 #header li a {
-  color: white;
+  color: #8fd1d5;
   text-decoration: none;
-  background-color: inherit;
 }
 #header li a:hover {
-  text-decoration: underline;
+  text-decoration: underline; 
 }
 
 /*POST LIST STYLE*/
