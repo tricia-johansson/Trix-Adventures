@@ -12,7 +12,12 @@ body {
 }
 
 p {
+color: #000000;
   line-height: 1.6em; /*I find the default HTML line-height tends to be a bit claustrophobic for main text*/
+}
+
+h1 {
+color: #000000;
 }
 
 a {
