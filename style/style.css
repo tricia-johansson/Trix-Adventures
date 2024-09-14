@@ -15,6 +15,11 @@ p {
   line-height: 1.6em; /*I find the default HTML line-height tends to be a bit claustrophobic for main text*/
 }
 
+a {
+color: #000000;
+text-decoration: underline;
+}
+
 hr {
   border: solid #4B508E;
   border-width: 2px 0 0 0;
