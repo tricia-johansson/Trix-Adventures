@@ -59,7 +59,7 @@ img {
 	max-width: 700px;
 	background-color: #B2B4CD;
   color: #524234; 
-  outline-color: #695b4f;
+  outline-color: #4B508E;
   outline-style: ridge;
   outline-width: 6px;
   outline-offset: 0;
@@ -74,7 +74,7 @@ img {
 #header {
   background-color: #B2B4CD;
   padding: 0 5%;
-  border-color: #695b4f;
+  border-color: #4B508E;
   border-style: ridge;
   border-width: 0 0 6px 0;
 }
